@@ -1,0 +1,104 @@
+body{
+   background-color: aliceblue;
+   margin: 10px;
+}
+.Container{
+    border: 1px solid black;
+    width: auto; height: 130px;
+    display: flex;
+    padding: 20px;
+}
+.img{
+    background-color: aliceblue;
+    margin-top: 3.5%;
+    border: 1px solid black;
+    width: auto; height: 50px;
+    flex-grow: 1; text-anchor: middle;
+}
+.cMenu{
+    width: auto; height: auto;
+    display: flex;
+    margin: 0%; padding: 0%;
+}
+.Home{
+    width: auto; height: 50px;
+    margin: 0%; padding: 1px;
+    flex-shrink: auto; margin-right: 0%;
+}
+.About{
+    width: auto; height: 50px;
+    margin: 0%; padding: 0px;
+    flex-shrink: auto; margin: 0%;
+}
+.Services{
+    width: auto; height: 50px;
+    margin: 0%; padding: 1px;
+    flex-grow: auto; margin: 0%;
+}
+.Contact{
+    width: auto; height: 50px;
+    margin: 0%; padding: 1px;
+    flex-shrink: auto; margin: 0%;
+}
+h3{
+    margin: auto;
+    padding: 20px;
+}
+h4{
+    margin-top: -15%; text-align: center;
+}
+.Menu{
+    padding: 10px;
+    width: 100px; height: auto;
+}
+.Container2{
+    margin: auto;
+    background-color: gray;
+    margin: 30px; width: auto; height: auto;
+}
+.search{
+    width: 200px; height: 30px;
+}
+.Container3{
+    width: auto; height: auto;
+    display: flex;
+}
+.Category{
+    width: 300px; height: auto;
+    margin: 0%; padding: 0%;
+    border: 1px solid black;
+    text-anchor: middle;
+}
+.button{
+    border: 1px solid black;
+    margin: 1%; width: 200px; height: auto;
+}
+.Featured{
+    width: 1000px; height: auto;
+    margin: 0%; padding: 0%;
+    border: 1px solid black;
+    text-anchor: middle;
+}
+.Container4{
+    margin: auto;
+    margin: 5px; width: auto; height: auto;
+    display: flex;
+}
+.Product{
+    background-color: aliceblue;
+    border: 1px solid black;
+    width: auto; height: 100px;
+    flex-grow: 1;
+}
+.Container5{
+    width: auto; height: auto;
+    display: flex; border: 1px solid black;
+}
+.Company{
+    width: 160px; height: auto;
+    margin: 0%; padding: 5%;
+}
+.Company3{
+    width: 350px; height: auto;
+    margin: 0%; padding: 5%;
+}

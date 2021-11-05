@@ -1,0 +1,66 @@
+.Container{
+    padding: 2%;
+    background-color: #f1f2f3;
+    color: black;
+    display: flex;
+}
+.blogright{
+    width: 100%; height: 10%;
+    padding: 2%;
+    margin: auto; border: 1px solid black;
+}
+.img1{
+    width: auto; height: 20%;
+    margin: 0%;
+}
+.P1{
+    width: auto; height: 20%;
+    margin: 0%; text-align: justify;
+}
+.img2{
+    width: 70%; height: 20%;
+    margin: 0%;
+}
+.Head1{
+    width: 150%;
+    margin: 0%; font-size: 25px;
+}
+
+
+
+.Subcontainer{
+    color: black;
+    display: flex; padding: 2%;
+    width: 150%; height: 100%;
+    flex-direction: column;
+    border: 1px solid black;
+    margin-left: 3%;
+}
+.blogleft{
+    width: 80%; height: 10%;
+    padding: 2%;
+    margin-bottom: 5%;
+    border: 1px solid black;
+}
+.blogleft1{
+    width: 80%; height: 10%;
+    margin-top: auto; padding: 2%;
+    margin-left: 0%;
+    border: 1px solid black;
+}
+.img3{
+    width: 50%; height: 20%;
+    margin: 0%;
+}
+.P2{
+    width: 100%; height: 20%;
+    margin: 0%; text-align: justify;
+}
+.img4{
+    width: 50%; height: 20%;
+    margin: 0%;
+}
+.Head2{
+    width: 150%;
+    margin: 0%; font-size: 25px;
+}

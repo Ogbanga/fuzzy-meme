@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    margin: 20px;
+}
+.Container{
+    border: 1px solid black;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    flex: 1;
+}
+.sub{
+    padding: auto;
+    display: flex;
+    flex-direction: column;
+    margin-right: 3%;
+    flex: 2;
+}
+.leftdiv{
+    border: 1px solid black;
+    margin-bottom: 3%;
+    padding: 1%;
+
+}
+.leftdiv2{
+    border: 1px solid black;
+    padding: 1%;
+}
+.rightdiv{
+    border: 1px solid black;
+    padding: 1%;
+    flex: 1;
+}
+.img1{
+    width: 300px; height: 200px;
+    float:left;
+    margin-right: 3%;
+}
+.img3{
+    width: auto; height: 200px;
+}

@@ -1,0 +1,53 @@
+*{
+    margin: 20px;
+    background-color: rosybrown;
+}
+.BigDiv{
+border: 2px solid gray;
+padding: 10px;
+display: flex;
+}
+.box-one{
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    margin: auto;
+    flex: auto;
+}
+.box-two{
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    margin-left: 20px;
+    flex:auto;
+}
+.box-three{
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    margin: auto;
+    flex: auto;
+}
+.box-four{
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    margin-right: auto;
+    flex: auto;
+}
+.box-five{
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    margin-right: auto;
+    flex: auto;
+}
+h3{
+    text-align: center;
+    user-select: contain;
+}
